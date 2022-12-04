@@ -1,0 +1,71 @@
+.top{
+    background: rgba(235, 197, 161, 0.315);
+    width: auto;
+    min-width: 1000px;
+    height: 120px;
+    
+}
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    font-size: xx-large;
+    margin: 10px auto auto 30px; 
+}
+.logo{
+    width: 90px;
+    height: 100px;
+    margin-top: 10px;
+}
+.nav:active{
+    color: rgb(240, 22, 22);
+}
+.navigation{ 
+    margin: 30px 0 0 0 ;
+}
+.navigation:last-child{
+    margin: 30px 100px 0 0 ;
+}
+.picture{
+    margin: 30px 0 0 0 ;
+}
+.inner{
+    display: flex;
+    justify-content:space-between;
+}
+h1{
+    margin: 50px 700px auto 100px;
+    color: rgb(62, 5, 109);
+    font-size: xx-large;
+}
+.content{
+    
+}
+p{
+    font-size: x-large;
+    color: rgb(62, 5, 109);
+}
+.box{
+    font-size: x-large;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 800px;
+    margin-top: 100px;
+    color: rgb(62, 5, 109);
+}
+.row{
+    background: rgba(235, 197, 161, 0.315);
+    height: 80px;
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-between;
+}
+.net{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 700px;
+}
+
+
+.icon{
+    margin: 15px 0px 10px 50px;
+}
